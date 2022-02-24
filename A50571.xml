@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of His Grace George Earl of Melvill, Their Majesties High Commissioner, at the opening of the second session of the first Parliament of Their Majesties ancient kingdom of Scotland, the 15th of April</title>
+            <author>Melville, George Melville, Earl of, 1634?-1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50571</idno>
+            <idno type="STC">Wing M1652</idno>
+            <idno type="STC">ESTC R17027</idno>
+            <idno type="EEBO-CITATION">13644692</idno>
+            <idno type="OCLC">ocm 13644692</idno>
+            <idno type="VID">100902</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100902)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of His Grace George Earl of Melvill, Their Majesties High Commissioner, at the opening of the second session of the first Parliament of Their Majesties ancient kingdom of Scotland, the 15th of April</title>
+                  <author>Melville, George Melville, Earl of, 1634?-1707.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published by authority."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Parliament.</term>
+               <term>Scotland --  Politics and government --  1689-1745.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100902:1"/>
+            <!-- PDF PAGE 17 -->
+            <pb facs="tcp:100902:1"/>
+            <!-- PDF PAGE 17 -->
+            <p>THE SPEECH Of His GRACE GEORGE EARL OF MELVILL, Their <hi>Majesties</hi> HIGH COMMISSIONER; At the Opening of the Second Seſſion of the Firſt Parliament of Their <hi>Majeſties</hi> Antient Kingdom of <hi>SCOTLAND. The</hi> 15<hi rend="sup">th</hi> 
+               <hi>of</hi> April, 1690.</p>
+            <p>
+               <hi>Publiſhed by Authority.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh.</hi> Printed by the Heir of <hi>Andrew Anderſon, Anno DOM.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:100902:2"/>
+            <!-- PDF PAGE 18 -->
+            <pb n="3" facs="tcp:100902:2"/>
+            <!-- PDF PAGE 18 -->
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>THis Seſſion of Parliament had been Honoured with the Preſence of my Royal Maſter, had not the great weight of Affairs on his Hand, the Meeting of the Parliament of <hi>England,</hi> and the deſigned expedition into <hi>Ireland,</hi> deprived you of that Happineſs and Satisfaction He really intended for you.</p>
+            <p>And tho He ſtill Reſolves, ſo ſoon as His Important Affairs can allow Him, to Viſit this His Antient Kingdom; Yet ſuch a regard hath he to what may be for the Satisfacti<g ref="char:EOLhyphen"/>on of His People, that He would no longer delay your Meeting, for giving ſuch a Settle<g ref="char:EOLhyphen"/>ment to this Nation, as may be a real Security to its moſt valuable Concerns of True Re<g ref="char:EOLhyphen"/>ligion, and Juſt Liberties.</p>
+            <p>Can you reflect upon the great Things that He (as the Inſtrument in the Hand of God) hath done for you? Can you think of thoſe Eminent Dangers, to which (when living in the greateſt Honour, Plenty and Peace) He did ſo magnanimouſly expoſe Himſelf for the Reſcuing you from theſe greateſt of evils, Popery, and Slavery; and Delivering you from the Fears you were ready to ſink under, and not chearfully concur in doing all things that may be for the Satisfaction, and Safety of your Deliverer, when Linked ſo much with your own Intereſt?</p>
+            <p>I believe there are few true Proteſtants, and good Countreymen who would not give freely the half of their Eſtates, for ſo great a Bleſſing, were it yet to be purchaſed.</p>
+            <p>His Deſires are Confined unto, and Regulated by your true Intereſt: He Demands a Subſidie, but it is only what is neceſſary for your Safety, the Securing of what is deareſt to you, and the Support of the Government; He hath ſpared no expenſe hi<g ref="char:EOLhyphen"/>therto, for your Protection; and it is but reaſonable, He ſhould now have your effe<g ref="char:EOLhyphen"/>ctual Aſſiſtance; let it never be the Stain of our Nation, that the beſt of our Kings was the worſt Treated.</p>
+            <p>He refuſeth nothing that can be juſtly demanded, His uncontraverted Rights are only Valued by Him, as they are uſeful for your Good and Security.</p>
+            <p>I am Commanded by the King (my Lords and Gentlemen) to tell you, That as He Reſolves to live and die in the ſincere profeſſion of the True Proteſtant Religion; For the maintainance whereof, He is again about to expoſe His Royal Perſon, ſo He is wil<g ref="char:EOLhyphen"/>ling to concur with you, for the Settlement of Church and State, upon ſuch ſolid Foun<g ref="char:EOLhyphen"/>dations, as you need not again fear a relapſe into your former evils.</p>
+            <p>He is ready to give His Royal Aſſent to what in Juſtice can be propoſed to Him, for Securing Religion, Liberty and Property, from all future Encroachments, and for Re<g ref="char:EOLhyphen"/>dreſſing of other Grievances, and you cannot with reaſon demand any thing, which He is not willing to grant.</p>
+            <p>His Majeſty offers Redreſs to the oppreſſed, Pardon and Peace to ſubmitting Ene<g ref="char:EOLhyphen"/>mies, and protection to all His good Subjects.</p>
+            <p>I am further Impowered by His Majeſty, to give His Royal Burrows, ſuch Encou<g ref="char:EOLhyphen"/>ragement and Redreſs in the matter of Trade, and ſuch eaſe, in relation to the propor<g ref="char:EOLhyphen"/>tion of their Burdens, as the Parliament ſhall think fit.</p>
+            <p>What then remains, but that you behave with ſuch Zeal for the Good of your Coun<g ref="char:EOLhyphen"/>trey, as to its Religious and Civil Concerns, and the Honour of your Prince, as this Seſſion of Parliament may have an Iſſue, which may be to the ſatisfaction of both.</p>
+            <p>I ſhould be injurious to you to doubt of this, or to think you need any perſwaſions, to ſet about theſe things effectually, which are ſo much your own concern.</p>
+            <p>You know the eyes of thoſe whom you repreſent, as alſo of your Neighbours, and even of your Enemies, are upon you; expecting what may be the reſult of your Meet<g ref="char:EOLhyphen"/>ing;
+<pb n="4" facs="tcp:100902:3"/>
+               <!-- PDF PAGE 19 -->In which the King's Allays, as well as all His Subjects, and our Proteſtant Friends abroad are not a little concerned.</p>
+            <p>You need not that I recommend to you the laying aſide all Animoſities, Picques, and Quarrels, and ſhunning all occaſions of Contention, ſeing this is ſo much your own In<g ref="char:EOLhyphen"/>tereſt, and that you will endeavour to evidence to the World, that it is not privat, or ſelfiſh Deſigns, but Zeal for God and the true Religion, and love to your King and Countrey, which influence you.</p>
+            <p>
+               <hi>I</hi> with there may be many found amongſt you in this meeting, like thoſe who repre<g ref="char:EOLhyphen"/>ſented the Tribe of <hi>Iſſachar</hi> for ſetling the Kingdom in the Hands of <hi>David;</hi> men who had underſtanding of the times to know that <hi>Iſrael</hi> ought to do.</p>
+            <p>I hope you will not take it ill, that <hi>I</hi> mind you of that uſefull precept of the Apoſtle, Let your Moderation be known unto all Men; for the unfriends of our Nation have ta<g ref="char:EOLhyphen"/>ken occaſion to reproach us more for the vehemence of our temper, than any thing elſe.</p>
+            <p>As for My Self, My Lords and Gentlemen, (whom His Majeſty hath honoured with a Character far above my Ambition) I ſhall not ſay much, having no deſign be<g ref="char:EOLhyphen"/>fore my Eyes, but the Publick Good, and what is clearly your own intereſt. I have no Apology to make as having been either an Actor in, or Complyer with what hath been grievous to you, or prejudicial to the Nation; I hope my Deportment and Sufferings the by paſt part of my Life will, (at leaſt ought to) ſecure me from all Suſpitions of being a Fromover of Arbitrary Power; and I am ſure my Maſter whom I ſerve, is far from de<g ref="char:EOLhyphen"/>ſigning or deſiring any ſuch thing, whatever His or Our Enemies may ſuggeſt.</p>
+            <p>I acknowledge that what Truſt His Majeſty hath been pleaſed to Confer upon me, is above my Strength; but it ſhall be my endeavour to ſupply my other Defects, by an intire Faithfulneſs to the King my Maſter, a ſincere reſpect to you, and a zealous applica<g ref="char:EOLhyphen"/>tion for promoting of the true Religion, and Common-good of all.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100902:3"/>
+            <!-- PDF PAGE 19 -->
+         </div>
+      </body>
+   </text>
+</TEI>
